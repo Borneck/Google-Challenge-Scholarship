@@ -1,0 +1,55 @@
+/* add your CSS here */
+body {
+	width: 332px;
+	
+}
+main {
+	padding: 15px;
+	border: 1px solid #a29c9c;
+	border-radius: 3px;
+	box-shadow: 5px 5px 25px 2px rgba(145,177,83,0.61);
+	border-radius: 6px;
+}
+section {
+	background: rgba(145,177,83,0.10);
+	border: 1px solid #e5e5e5;
+	padding: 3px;
+	border-radius: 5px;
+}
+
+
+header{
+	padding-bottom: 5px;
+}
+h1 {
+	font-size: 1.5em; 
+	font-family: Helvetica,sans-serif;
+	margin-top: 10px;
+}
+
+
+#bild {
+	width: 300px;
+	margin-bottom: -4px;
+	border-radius: 5px;
+	box-shadow: 1px 1px 10px 0 rgba(145,157,146,0.61);
+}
+
+
+h2 {
+	
+	font-size: 1em;
+	font-style: italic;
+	letter-spacing: 1px;
+	
+}
+#tierliste {
+	text-align: left;
+	list-style: none;
+	padding: 0px;
+}
+#tierliste li span{
+	font-size: 1.1em;
+	font-weight: bold;
+	padding-right: 15px;
+}
